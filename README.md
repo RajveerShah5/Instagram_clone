@@ -47,4 +47,5 @@ In accordance with our course’s academic integrity guidelines:
 - This README serves solely as a portfolio and documentation of the project goals and features.
 
 ## 🤝 Contact 
-Connect me on LinkedIn if you wanna know more about the project or code.
+📬 [GitHub](https://github.com/RajveerShah5)
+💼 [LinkedIn](https://www.linkedin.com/in/rajveershah/)
