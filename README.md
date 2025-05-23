@@ -46,6 +46,5 @@ In accordance with our course’s academic integrity guidelines:
 - No source code or implementation specifics are included in this repository.
 - This README serves solely as a portfolio and documentation of the project goals and features.
 
-## 🤝 Contact
-We’re happy to share our experiences or discuss the conceptual design of this project.  
-Connect with us via GitHub or reach out on LinkedIn.
+## 🤝 Contact 
+Connect me on LinkedIn if you wanna know more about the project or code.
